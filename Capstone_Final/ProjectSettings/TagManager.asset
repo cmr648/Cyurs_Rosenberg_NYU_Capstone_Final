@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup
+  - Potential_Pickup
+  - Weapon
+  - Health_Pack
+  - Bullet
+  - Bounce_Bullet
+  - Slice_Bullet
+  - Explode_Bullet
+  - Wall
+  - Enemy
+  - Coin
+  - Enemy_Location
+  - Slice_Weapon
+  - Bounce_Weapon
+  - Explode_Weapon
+  - Explosion
+  - Ammo
+  - Splat
+  - Game_Manager
+  - Enemy_Portal
+  - End_Wall
+  - Score_Text
+  - Coin_Portal
+  - Dont_Destroy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Player
+  - Items
+  - Walls
+  - Bounce_Items
+  - Pathfind_Enemies
+  - Player_Bullets
+  - Portals
+  - Enemy
+  - Slice_Enemy
+  - End_Walls
+  - Corners
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
