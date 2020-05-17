@@ -576,7 +576,7 @@ public class Level_Select_Manager : MonoBehaviour
         #endregion
 
         #region Player_2
-        if (Gameplay_Variables.Player_1_In_Game == true) // if player 1 is in game
+        if (Gameplay_Variables.Player_2_In_Game == true) // if player 1 is in game
         {
             if (Player_2_Arcade_Controls.Player_X_In_Use == false)
             {

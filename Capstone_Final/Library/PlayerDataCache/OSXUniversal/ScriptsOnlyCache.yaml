@@ -2241,5 +2241,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Player_Scoring_Scene.unity
   - Assets/Scenes/High_Score_Scene.unity
   - Assets/Scenes/Credits_Scene.unity
-  playerPath: /Users/cyrusrosenberg/Desktop/Cyrus_Rosenberg_NYU_Capstone/Capstone_Final/Portal
+  playerPath: /Users/cyrusrosenberg/Desktop/Cyrus_Rosenberg_NYU_Capstone/Cyurs_Rosenberg_NYU_Capstone_Final/Capstone_Final/Portal
     Panic.app
