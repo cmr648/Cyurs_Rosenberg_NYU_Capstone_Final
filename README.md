@@ -3,6 +3,9 @@
 
 This is a final thesis project for Cyrus Rosenberg fufilling the graduation requirements of the 2020 NYU Game Center
 
+This game is designed to be used with Controllers
+
 In order to correctly download, please CLONE the repo DO NOT download the zip.
 
 This repository makes use of Git LFS
+
